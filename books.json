@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Peer-e-Kamil",
+        "author": "Umera ahmed",
+        "genre": "Fiction",
+        "rating": 1
+    },
+    {
+        "title": "The Habbit",
+        "author": "Tolkien",
+        "genre": "Sci-Fi",
+        "rating": 1
+    },
+    {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "genre": "Mystery",
+        "rating": 1
+    },
+    {
+        "title": "The Power of Habbit",
+        "author": "Charles Duhig",
+        "genre": "Non-Fiction",
+        "rating": 1
+    }
+]
